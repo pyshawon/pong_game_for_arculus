@@ -50,8 +50,8 @@ $ python server.py 192.168.0.101 8000
 
 ### TODO
 - Connect game engine to socket server.
-- Integrating tnit test.
-- Better angle calclution when ball hits the paddle.
+- Integrating unit test.
+- Better angle calculation when ball hits the paddle.
 - Split code into more files for simplicity.
 
 
